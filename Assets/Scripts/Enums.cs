@@ -1,0 +1,1 @@
+public enum GraphType { Line, Squared, Cubed, SquareRoot, Sine, Cosine }
